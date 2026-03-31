@@ -1,4 +1,4 @@
-# Market-health-monitoring-framework
+# Market Health Monitoring Framework
 
 ## Overview
 A quantitative framework that treats financial markets as a living system, 
